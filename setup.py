@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "MLOps"
-AUTHOR_USER_NAME = "KanishkSaxena"
+REPO_NAME = "End-to-end-ML-Project-with-MLflow"
+AUTHOR_USER_NAME = "entbappy"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "kanishksaxena1896@gmail.com"
+AUTHOR_EMAIL = "entbappy73@gmail.com"
 
 
 setuptools.setup(
